@@ -1,0 +1,27 @@
+body {
+    background-color: #FFC0CB; /* Light pink background */
+}
+.main {
+    background-color: #FFFFFF; /* White background for the main content */
+    border-radius: 10px;
+    padding: 20px;
+}
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #D81B60; /* Pink color */
+    text-align: center;
+    margin-top: 10px;
+}
+.button {
+    background-color: #D81B60; /* Set button color to match the title's pink */
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    width: 100%; /* Optional: Make the button full width */
+}
+.button:hover {
+    background-color: #AD1457; /* Darker pink on hover */
+}

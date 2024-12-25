@@ -12,6 +12,7 @@ A web application built with Streamlit that predicts whether a tumor is **benign
 - Streamlit: For creating an intuitive user interface and hosting the app.
 - Joblib: For saving and loading the pre-trained machine learning model.
 - Pandas and Numpy: For data preprocessing and manipulation.
+- CSS: For the front-end styling of the web application.
 
 ## Model Selection
 
